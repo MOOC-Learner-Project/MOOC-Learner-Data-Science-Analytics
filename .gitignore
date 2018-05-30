@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.pyc
+__pycache__
+.idea
+.pytest_cache
+virtualenv
+data/*
+result/*
