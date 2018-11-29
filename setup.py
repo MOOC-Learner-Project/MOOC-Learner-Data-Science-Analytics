@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 from setuptools import setup
 
-VERSION = '0.0.1'
+VERSION = '0.2'
 
-long_description = "To be updated"
+long_description = ""
 
 setup_info = dict(
     # Metadata
