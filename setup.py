@@ -23,7 +23,7 @@ setup_info = dict(
     zip_safe=True,
     packages=['mldsa'],
     install_requires=[
-        'torch==0.4.0',
+        'torch==2.2.0',
         'numpy==1.14.2',
         'scipy',
         'pandas==0.22.0',
